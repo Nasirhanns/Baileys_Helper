@@ -1,6 +1,6 @@
 {
   "name": "baileys_helper",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This is a plugin to make baileys more interactive",
   "homepage": "https://scratchive.com",
   "keywords": [
@@ -8,12 +8,12 @@
     "WhatsApp"
   ],
   "license": "ISC",
-  "author": "mehebub648",
+  "author": "Nasirhanns",
   "type": "commonjs",
   "main": "export.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nasirhanns/Baileys_Helper.git"
+    "url": "git+https://github.com/Nasirhanns/Baileys_Helper.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
