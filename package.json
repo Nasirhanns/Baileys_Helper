@@ -13,7 +13,7 @@
   "main": "export.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mehebub648/Scratchive-Module-BaileysHelper.git"
+    "url": "https://github.com/Nasirhanns/Baileys_Helper.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
